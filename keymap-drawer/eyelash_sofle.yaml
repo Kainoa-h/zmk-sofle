@@ -68,9 +68,9 @@ layers:
   Aux:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
-  - {h: '4', s: '$$mdi:bluetooth-connect$$'}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -78,7 +78,7 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - '&BT_CLR'
+  - $$mdi:bluetooth-off$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:brightness-7$$
   - $$mdi:brightness-5$$
@@ -149,7 +149,7 @@ layers:
   - {t: '''', s: '"'}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - '|'
+  - {t: Sft+\, s: Sft+|}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: \, s: '|'}
   - {t: '7', s: '&'}
@@ -175,9 +175,9 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: (, h: '$$mdi:apple-keyboard-option$$'}
   - {t: ), h: LGUI}
-  - '|'
+  - {t: Sft+\, s: Sft+|}
   - {t: '$$mdi:transfer$$', type: trans}
-  - _
+  - {t: Sft+-, s: Sft+_}
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
   - {t: '3', s: '#'}
@@ -214,7 +214,7 @@ layers:
   - '"'
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - '|'
+  - {t: Sft+\, s: Sft+|}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: \, s: '|'}
   - '&'
@@ -240,9 +240,9 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - (
   - )
-  - '|'
+  - {t: Sft+\, s: Sft+|}
   - {t: '$$mdi:transfer$$', type: trans}
-  - _
+  - {t: Sft+-, s: Sft+_}
   - '!'
   - '@'
   - '#'
