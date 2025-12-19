@@ -127,7 +127,7 @@
 
         layer_1 {
             bindings = <
-&none      &none         &none         &none         &none         &none                &trans          &none           &none                 &none      &none      &none     &none
+&none      &none         &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &none                &trans          &none           &none                 &none      &none      &none     &BT_CLR
 &none      &kp C_BRI_DN  &kp C_BRI_UP  &kp C_MUTE    &kp C_VOL_DN  &kp C_VOL_UP         &trans          &msc SCRL_UP    &kp AMPS              &kp ASTRK  &none      &none     &none
 &none      &kp TAB       &none         &none         &none         &kp PG_UP            &trans          &kp LEFT        &kp DOWN              &kp UP     &kp RIGHT  &kp SQT   &none
 &none      &none         &none         &none         &none         &kp PG_DN            &trans          &msc SCRL_DOWN  &kp EXCL              &kp AT     &kp HASH   &kp MINUS &none
