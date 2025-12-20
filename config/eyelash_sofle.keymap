@@ -114,11 +114,11 @@
 
         layer0 {
             bindings = <
-&none      &none     &none        &none        &none                  &none             &RGB_BRI        &none     &none                 &none           &none          &none     &none
-&none      &kp Q     &kp W        &kp E        &kp R                  &kp T             &RGB_BRD        &kp Y     &kp U                 &kp I           &kp O          &kp P     &none
-&none      &kp A     &kp S        &kp D        &kp F                  &kp G             &RGB_EFR        &kp H     &kp J                 &kp K           &kp L          &kp SEMI  &none
-&none      &kp Z     &hml LCTL X  &hml LALT C  &hml LGUI V            &kp B             &RGB_EFF        &kp N     &hmr RGUI M           &hmr RALT COMMA &hmr RCTRL DOT &kp FSLH  &none
-&none      &none     &none        &lmt 1 4     &shft_spc LSHFT SPACE  &none             &RGB_TOG        &none     &shft_spc LSHFT SPACE &rmt 2 3        &none          &none
+&none      &none     &none        &none        &none                  &none             &rgb_ug RGB_BRI        &none     &none                 &none           &none          &none     &none
+&none      &kp Q     &kp W        &kp E        &kp R                  &kp T             &rgb_ug RGB_BRD        &kp Y     &kp U                 &kp I           &kp O          &kp P     &none
+&none      &kp A     &kp S        &kp D        &kp F                  &kp G             &rgb_ug RGB_EFR        &kp H     &kp J                 &kp K           &kp L          &kp SEMI  &none
+&none      &kp Z     &hml LCTL X  &hml LALT C  &hml LGUI V            &kp B             &rgb_ug RGB_EFF        &kp N     &hmr RGUI M           &hmr RALT COMMA &hmr RCTRL DOT &kp FSLH  &none
+&none      &none     &none        &lmt 1 4     &shft_spc LSHFT SPACE  &none             &rgb_ug RGB_TOG        &none     &shft_spc LSHFT SPACE &rmt 2 3        &none          &none
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
