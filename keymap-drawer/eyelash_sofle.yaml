@@ -7,7 +7,7 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - $$mdi:arrow-up-bold$$
+  - '&RGB_BRI'
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -20,7 +20,7 @@ layers:
   - E
   - R
   - T
-  - $$mdi:arrow-down-bold$$
+  - '&RGB_BRD'
   - Y
   - U
   - I
@@ -33,7 +33,7 @@ layers:
   - D
   - F
   - G
-  - $$mdi:arrow-left-bold$$
+  - '&RGB_EFR'
   - H
   - J
   - K
@@ -46,7 +46,7 @@ layers:
   - {t: C, h: '$$mdi:apple-keyboard-option$$'}
   - {t: V, h: LGUI}
   - B
-  - $$mdi:arrow-right-bold$$
+  - '&RGB_EFF'
   - N
   - {t: M, h: RGUI}
   - {t: ',', h: '$$mdi:apple-keyboard-option$$', s: <}
@@ -59,7 +59,7 @@ layers:
   - {t: Fnc, h: Aux}
   - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - '&RGB_TOG'
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: Symb_Shift, h: Symb}
@@ -68,9 +68,9 @@ layers:
   Aux:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {h: '1', s: '$$mdi:bluetooth-connect$$'}
-  - {h: '2', s: '$$mdi:bluetooth-connect$$'}
-  - {h: '3', s: '$$mdi:bluetooth-connect$$'}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -94,9 +94,9 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:keyboard-tab$$
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {h: '1', s: '$$mdi:bluetooth-connect$$'}
+  - {h: '2', s: '$$mdi:bluetooth-connect$$'}
+  - {h: '3', s: '$$mdi:bluetooth-connect$$'}
   - PG UP
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:arrow-left-bold$$
