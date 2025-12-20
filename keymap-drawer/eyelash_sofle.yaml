@@ -7,7 +7,7 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - '&RGB_BRI'
+  - RGB BRI
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -20,7 +20,7 @@ layers:
   - E
   - R
   - T
-  - '&RGB_BRD'
+  - RGB BRD
   - Y
   - U
   - I
@@ -33,7 +33,7 @@ layers:
   - D
   - F
   - G
-  - '&RGB_EFR'
+  - RGB EFR
   - H
   - J
   - K
@@ -46,7 +46,7 @@ layers:
   - {t: C, h: '$$mdi:apple-keyboard-option$$'}
   - {t: V, h: LGUI}
   - B
-  - '&RGB_EFF'
+  - RGB EFF
   - N
   - {t: M, h: RGUI}
   - {t: ',', h: '$$mdi:apple-keyboard-option$$', s: <}
@@ -59,7 +59,7 @@ layers:
   - {t: Fnc, h: Aux}
   - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - '&RGB_TOG'
+  - RGB TOG
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: Symb_Shift, h: Symb}
