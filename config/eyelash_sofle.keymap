@@ -38,7 +38,7 @@
     };
 
     behaviors {
-        hml: homewrow_mods_left {
+        hml: homerow_mods_left {
             compatible = "zmk,behavior-hold-tap";
             #binding-cells = <2>;
             flavor = "balanced";
@@ -47,7 +47,7 @@
             bindings = <&kp>, <&kp>;
         };
 
-        hmr: homewrow_mods_right {
+        hmr: homerow_mods_right {
             compatible = "zmk,behavior-hold-tap";
             #binding-cells = <2>;
             flavor = "balanced";
@@ -109,7 +109,7 @@
         };
         combo_gaming {
             timeout-ms = <300>;
-            key-positions = <22,34,35,36>;
+            key-positions = <22 34 35 36>;
             bindings = <&to 6>;
         }
     };
