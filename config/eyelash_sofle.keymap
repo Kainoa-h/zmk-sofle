@@ -111,7 +111,7 @@
             timeout-ms = <300>;
             key-positions = <22 34 35 36>;
             bindings = <&to 6>;
-        }
+        };
     };
 
     keymap {
