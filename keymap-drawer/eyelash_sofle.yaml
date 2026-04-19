@@ -65,6 +65,71 @@ layers:
   - {t: Symb_Shift, h: Symb}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
+  Linux:
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - RGB BRI
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - RGB BRD
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - A
+  - S
+  - D
+  - F
+  - G
+  - RGB EFR
+  - H
+  - J
+  - K
+  - L
+  - {t: ;, s: ':'}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - Z
+  - {t: X, h: LCTL}
+  - {t: C, h: '$$mdi:apple-keyboard-option$$'}
+  - {t: V, h: LGUI}
+  - B
+  - RGB EFF
+  - N
+  - {t: M, h: RGUI}
+  - {t: ',', h: '$$mdi:apple-keyboard-option$$', s: <}
+  - {t: ., h: '$$mdi:apple-keyboard-control$$', s: '>'}
+  - {t: /, s: '?'}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: Fnc, h: Aux}
+  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - RGB TOG
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
+  - {t: Symb_Shift, h: Symb}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   Aux:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -94,9 +159,9 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:keyboard-tab$$
-  - '&m_bt_win0'
-  - '&m_bt_mac1'
-  - '&m_bt_win2'
+  - '&m_bt_mac0'
+  - '&m_bt_lin1'
+  - '&m_bt_lin2'
   - PG UP
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:arrow-left-bold$$
@@ -323,71 +388,6 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: 'Sft+$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: 'Sft+$$mdi:keyboard-return$$', type: enter}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  Linux:
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - RGB BRI
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - Q
-  - W
-  - E
-  - R
-  - T
-  - RGB BRD
-  - Y
-  - U
-  - I
-  - O
-  - P
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - A
-  - S
-  - D
-  - F
-  - G
-  - RGB EFR
-  - H
-  - J
-  - K
-  - L
-  - {t: ;, s: ':'}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - Z
-  - {t: X, h: LCTL}
-  - {t: C, h: '$$mdi:apple-keyboard-option$$'}
-  - {t: V, h: LGUI}
-  - B
-  - RGB EFF
-  - N
-  - {t: M, h: RGUI}
-  - {t: ',', h: '$$mdi:apple-keyboard-option$$', s: <}
-  - {t: ., h: '$$mdi:apple-keyboard-control$$', s: '>'}
-  - {t: /, s: '?'}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: Fnc, h: Aux}
-  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - RGB TOG
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
-  - {t: Symb_Shift, h: Symb}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
 combos:
